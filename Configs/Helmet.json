@@ -1,0 +1,9 @@
+{
+    "itemName": "Helmet",
+    "quantity": 1,
+    "maxStack": 1,
+    "weight": 1.0,
+    "itemType": "Clothing",
+    "clothingType": "Head",
+    "defense": 10
+}

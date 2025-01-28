@@ -1,0 +1,9 @@
+{
+    "itemName": "Cap",
+    "quantity": 1,
+    "maxStack": 1,
+    "weight": 0.1,
+    "itemType": "Clothing",
+    "clothingType": "Head",
+    "defense": 3
+}
