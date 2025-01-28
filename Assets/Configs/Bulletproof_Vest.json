@@ -1,0 +1,9 @@
+{
+    "itemName": "Bulletproof Vest",
+    "quantity": 1,
+    "maxStack": 1,
+    "weight": 10.0,
+    "itemType": "Clothing",
+    "clothingType": "Torso",
+    "defense": 10
+}
