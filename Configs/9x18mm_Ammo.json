@@ -1,8 +1,0 @@
-{
-    "itemName": "9x18mm Ammo",
-    "quantity": 50,
-    "maxStack": 50,
-    "weight": 0.01,
-    "itemType": "Ammo",
-    "ammoType": "Pistol"
-}

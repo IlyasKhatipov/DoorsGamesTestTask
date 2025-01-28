@@ -1,8 +1,0 @@
-{
-    "itemName": "Medkit",
-    "quantity": 6,
-    "maxStack": 6,
-    "weight": 1.0,
-    "itemType": "Medkit",
-    "healAmount": 50
-}

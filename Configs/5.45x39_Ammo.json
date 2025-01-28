@@ -1,8 +1,0 @@
-{
-    "itemName": "5.45x39 Ammo",
-    "quantity": 100,
-    "maxStack": 100,
-    "weight": 0.03,
-    "itemType": "Ammo",
-    "ammoType": "AssaultRifle"
-}
